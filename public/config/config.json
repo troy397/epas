@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://bscscan.com/address/0xc3c878f64a3c803e27d165ce9ad55769bab3841a",
+  "NETWORK": {
+    "NAME": "Binance Smart Chain",
+    "SYMBOL": "BNB",
+    "ID": 56
+  },
+  "NFT_NAME": "GoatApesClub",
+  "SYMBOL": "GACNFT",
+  "MAX_SUPPLY": 3333,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.com/channels/932348325431234640/933094731183972372",
+  "SHOW_BACKGROUND": true
+}
